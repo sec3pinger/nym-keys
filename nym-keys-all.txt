@@ -1,14 +1,11 @@
-## Nym server keys
-## Last updated on Mon Feb 22 2016 by SEC3 Pinger Admin
-## See something missing or incorrect?
-## You can contact me at pinger-admin@sec3.net
+#  A L L   N Y M   S E R V E R   K E Y S   I N D E X
+#
+#  Updated: Tue, Feb 23 2016
+#  This list was last updated by SEC3 Pinger Admin
+#  Please email corrections to: pinger-admin@sec3.net
 
 #
-#
-# Ghio-style Nym servers (2)
-# These nym keys can and should be obtained by sending
-# a blank email to remailer-key@
-# Example: remailer-key@nymph.paranoici.org
+# Ghio-style nym servers (2)
 #
 
 [nym.mixmin.net]
@@ -86,9 +83,7 @@ hNI=
 -----END PGP PUBLIC KEY BLOCK-----
 
 #
-#
-# ZAX-STYLE NYM SERVERS (3)
-#
+# Zax-style nym servers (3)
 #
 
 [mixnym.net / is-not-my.name]
