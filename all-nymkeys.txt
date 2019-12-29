@@ -1,6 +1,6 @@
 #  A L L   N Y M   S E R V E R   K E Y S   I N D E X
 #
-#  Updated: Thu, Dec 29 2019
+#  Updated: Sun, Dec 29 2019
 #  Please email corrections to: pinger-admin@sec3.net
 #
 # Ghio-style nym servers
